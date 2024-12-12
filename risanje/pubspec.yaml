@@ -1,0 +1,45 @@
+name: risanje
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.1.6
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cvet1.svg
+    - assets/cvet2.svg
+    - assets/cvet3.svg
+    - assets/cvet4.svg
+    - assets/cvet5.svg
+    - assets/cvet6.svg
+    - assets/cvet7.svg
+    - assets/cvet8.svg
+    - assets/cvet9.svg
+    - assets/cvet10.svg
+    - assets/list1.svg
+    - assets/list2.svg
+    - assets/list3.svg
+    - assets/list4_5.svg
+    - assets/roza1.svg
+    - assets/roza2.svg
+    - assets/roza3.svg
+    - assets/roza4.svg
+    - assets/roza5.svg
+    - assets/roza6.svg
+    - assets/steblo.svg
+   
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
